@@ -1,0 +1,36 @@
+{
+  "orders": [
+    {
+      "type": "pizza",
+      "count": 2,
+      "ingredients": ["salami", "tomato sauce", "mushrooms", "mozzarella"]
+    },
+    {
+      "type": "salad",
+      "ingredients": [
+        "tomatoes",
+        "chicken",
+        "cheese",
+        "olives",
+        "cucumbers",
+        "lettuce"
+      ],
+      "with_croutons": "false"
+    },
+    {
+      "type": "salad",
+      "ingredients": [
+        "tomatoes",
+        "lettuce",
+        "carrots",
+        "lentils",
+        "cucumbers",
+        "cheese cream",
+        "tuna"
+      ],
+      "with_croutons": "true"
+    },
+    { "type": "monster", "count": 1, "drink_type": "original" },
+    { "type": "monster", "count": 2, "drink_type": "ripper" }
+  ]
+}
