@@ -1,0 +1,1 @@
+# registry_small_application
